@@ -43,7 +43,7 @@ body {
 }
 
 .fondo-traslucido {
-  background-color: rgba(200, 200, 200, 0.5);
+  background-color: rgba(100, 100, 100, 0.4);
   height: 300px;
   margin-bottom: 50px;
 }
@@ -81,6 +81,8 @@ ul {
 
 li {
   display: inline-block;
+  margin-left: 40px;
+  margin-right: 40px;
 }
 
 a {
