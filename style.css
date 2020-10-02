@@ -1,0 +1,121 @@
+body {
+    margin: 0;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.contenedor {
+    background-image: url("1000.jpg");
+}
+
+p {
+    text-align: center;
+    margin-top: 130px;
+    position: relative;
+    right: 125px;
+}
+
+h1 {
+    float: right;
+    position: relative;
+    bottom: 140px;
+    right: 375px;
+    color: rgb(51, 51, 51);
+    font-size: 30px;
+}
+
+h2 {
+    float: right;
+    position: relative;
+    font-size: 15px;
+    bottom: 90px;
+    right: 231px;
+    color: rgb(117, 117, 117);
+}
+
+ul {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    left: 350px;
+}
+
+li {
+    display: inline-block;
+}
+
+a {
+    display: inline-block;
+    text-decoration: none;
+    color: rgb(51, 51, 51);
+    font-size: 15px;
+    width: 150px;
+    height: 60px;
+    text-align: center;
+    line-height: 60px;
+}
+
+a:hover {
+    color:rgb(117, 117, 117);
+}
+
+span {
+    display: block;
+    color: rgb(51, 51, 51); 
+    position: relative;
+    top: 115px;
+    left: 280px; 
+}
+
+h3 {
+    color:rgb(51, 51, 51); 
+    font-size: 18px;
+    position: relative;
+    left: 490px;
+    top: 50px;
+}
+
+.imagen-información {
+    width: 250px;
+    position: relative;
+    left: 670px;
+    top: 8px;
+}
+
+h4 {
+    color: rgb(51, 51, 51);
+    font-size: 18px;
+    position: relative;
+    top: 200px;
+    left: 526px;
+}
+
+.icono {
+    position: relative;
+    padding: 25px;
+    top: 180px;
+    left: 5;
+}
+
+
+#curso-deuk {
+    display: inline;
+    position: relative;
+    left: 278px;
+    top: 100px;
+}
+
+#pie {
+    display: block;
+    color: rgb(117, 117, 117);
+    font-size: 13px;
+    position: relative;
+    top: 400px;
+    left: 491px;
+    padding: 20px;
+}
+
+.posicion-ul {
+    position: relative;
+    right: 16px;
+}
