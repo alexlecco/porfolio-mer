@@ -40,6 +40,12 @@ body {
   display: flex;
   flex-direction: row;
   align-items: center;
+  margin-top: 20px;
+}
+
+.panel {
+  margin-left: 40px;
+  margin-right: 40px;
 }
 
 .fondo-traslucido {
